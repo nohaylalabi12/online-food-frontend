@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/online-food-frontend/static/css/main.01fd5340.css",
+    "main.js": "/online-food-frontend/static/js/main.f8926a1d.js",
+    "static/js/453.d855a71b.chunk.js": "/online-food-frontend/static/js/453.d855a71b.chunk.js",
+    "static/media/logo.svg": "/online-food-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/online-food-frontend/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/online-food-frontend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/online-food-frontend/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/online-food-frontend/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/online-food-frontend/index.html",
+    "main.01fd5340.css.map": "/online-food-frontend/static/css/main.01fd5340.css.map",
+    "main.f8926a1d.js.map": "/online-food-frontend/static/js/main.f8926a1d.js.map",
+    "453.d855a71b.chunk.js.map": "/online-food-frontend/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01fd5340.css",
+    "static/js/main.f8926a1d.js"
+  ]
+}
