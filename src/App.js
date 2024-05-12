@@ -5,13 +5,18 @@ import { ThemeProvider } from '@mui/material/styles'; // Correction de l'importa
 import { darkTheme } from './Theme/DarkTheme';
 import { CssBaseline } from '@mui/material';
 import Home from './component/Navbar/Home/Home';
+import RestaurantDetails from './component/Restaurant/RestaurantDetails';
+import Cart from './component/Cart/Cart';
 
 function App() {
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline></CssBaseline>
      <Navbar/>
-     <Home/>
+    {/*<Home/>*/ } 
+   {/*<RestaurantDetails/>*/}
+    { /*<Cart></Cart>*/}
+    <profile></profile>
     </ThemeProvider>
   );
 }

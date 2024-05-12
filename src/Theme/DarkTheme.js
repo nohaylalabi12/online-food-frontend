@@ -1,10 +1,10 @@
-import { createTheme } from "@mui/material/styles"; // Correction de l'importation de createTheme
+import { createTheme } from "@mui/material/styles";
 
 export const darkTheme = createTheme({
     palette:{
         mode:"dark",
         primary:{
-            main : "#e91e63"
+            main : "#FF7F00"
         },
         secondary:{
             main:"#5A20CB"
@@ -22,3 +22,4 @@ export const darkTheme = createTheme({
         }
     }
 });
+

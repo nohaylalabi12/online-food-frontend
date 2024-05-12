@@ -6,14 +6,14 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import "./Navbar.css"
 export const Navbar = () => {
     return (
-        <div className='px-5 z-50 py-[.8rem] bg-[#e91e4d] lg:px-20 flex
+        <div className='px-5 z-50 py-[.8rem] bg-[#e9621e] lg:px-20 flex
         justify-between'>
            
          
             <div className='lg:mr-10 cursor-pointer flex items-center space-x-4'>
              
-             <li className='logo font-semibold text-gray-300 text-2xl'>
-                Oh my food
+             <li className='logo font-semibold text-white text-2xl'>
+                   FOODIE
                 </li>
            </div>
 
