@@ -30,7 +30,7 @@ const RestaurantCart = () => {
 
            </div>
            <div>
-            <IconButton color="primary">
+            <IconButton color="secondary">
              {true? <FavoriteIcon/>:<FavoriteBorderIcon/>}
             </IconButton>
 
